@@ -14,7 +14,11 @@ Que cómo puedes participar?
 * Ayudando en la organización de la comunidad.
 * Proponiendo un proyecto que pudiéramos hacer juntos.
 
-Todo ello puedes iniciarlo desde aquí mismo, creando un [_issue_](https://github.com/IonicSpain/IonicMadrid/issues/new)
+Todo ello puedes iniciarlo desde aquí mismo, creando un [_issue_](https://github.com/IonicSpain/IonicBarcelona/issues/new)
+
+## Cómo puedo colaborar en la comunidad?
+
+Si quieres participar de una manera más activa y ayudar a la comunidad a crecer y difundir todo el potencial de Ionic Framework, puedes crear un [_issue_](https://github.com/IonicSpain/IonicBarcelona/issues/new) o bien contactarnos vía twitter en [Ionic Spain](https://twitter.com/IonicSpain).
 
 Aquí, quien sea un enamorado del desarrollo con Ionic (o quiera empezar a conocerlo) y ayude construir, es más que bienvenido!
 
